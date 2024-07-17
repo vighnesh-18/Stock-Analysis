@@ -3,4 +3,3 @@ streamlit==0.86.0
 yfinance==0.1.55
 numpy==1.19.5
 matplotlib==3.4.2
-scikit-learn==0.24.2
